@@ -1,0 +1,7 @@
+coupon.system.core
+coupon.system.core.entities
+coupon.system.core.exceptions
+coupon.system.core.jobs
+coupon.system.core.repositories
+coupon.system.core.services
+coupon.system.core.tests
