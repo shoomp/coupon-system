@@ -1,0 +1,10 @@
+coupon.project.core.dao
+coupon.project.core.db
+coupon.project.core.dbdao
+coupon.project.core.exception
+coupon.project.core.facade
+coupon.project.core.jobs
+coupon.project.core.login
+coupon.project.core.tests
+coupon.project.core.types
+dataBase.mine
